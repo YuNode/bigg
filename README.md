@@ -1,3 +1,9 @@
+hybrid app
+
+vue.js + cordova 
+
+npm run buile 出来后放到cordova项目里编译
+
 # bigg
 
 > A Vue.js project
